@@ -1,0 +1,12 @@
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\model\SkillDto.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\service\impl\TrainingServiceImpl.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\TrainingApplication.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\feign\UserFeign.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\model\UserDto.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\model\TrainingsDto.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\repository\TrainingRepository.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\api\TrainingController.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\feign\TechnologyFeign.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\entity\Trainings.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\service\TrainingService.java
+C:\Users\MeiHuaLiu\Documents\GitHub\FSD_SBA\fsd-sba-Training\src\main\java\com\ibm\fsd\sba\training\model\ResponseDto.java

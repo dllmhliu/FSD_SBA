@@ -1,0 +1,7 @@
+
+Gsquid:S1481G")Remove this unused "user" local variable.(úÜã8­´ñ†ã-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8óî†ã-
+Bsquid:S1452?"&Remove usage of generic wildcard type.(ÕŸòÙÿÿÿÿÿ
+Vsquid:S1854G"8Remove this useless assignment to local variable "user".(úÜã8‘Òğ†ã-
+=squid:S14521"&Remove usage of generic wildcard type.(ê¢ñ
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8óî†ã-

@@ -1,0 +1,9 @@
+
+csquid:UselessImportCheck	"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8´æË„ã-
+…squid:S4165j"bRemove this useless assignment; "role" already holds the assigned value along all execution paths.(‚±×øÿÿÿÿ8ªŸÔ„ã-
+dsquid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8´æË„ã-
+csquid:UselessImportCheck"9Remove this unused import 'javax.persistence.ManyToMany'.(Àğ½8´æË„ã-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8»ªÑ„ã-
+hsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ8´æË„ã-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8´æË„ã-
+fsquid:S00107W"BConstructor has 12 parameters, which is greater than 7 authorized.(ï÷Îšùÿÿÿÿ8Ü×Î„ã-

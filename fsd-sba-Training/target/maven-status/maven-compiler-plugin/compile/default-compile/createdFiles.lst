@@ -1,0 +1,12 @@
+com\ibm\fsd\sba\training\entity\Trainings.class
+com\ibm\fsd\sba\training\api\TrainingController.class
+com\ibm\fsd\sba\training\model\TrainingsDto.class
+com\ibm\fsd\sba\training\feign\TechnologyFeign.class
+com\ibm\fsd\sba\training\repository\TrainingRepository.class
+com\ibm\fsd\sba\training\model\ResponseDto.class
+com\ibm\fsd\sba\training\model\UserDto.class
+com\ibm\fsd\sba\training\TrainingApplication.class
+com\ibm\fsd\sba\training\feign\UserFeign.class
+com\ibm\fsd\sba\training\model\SkillDto.class
+com\ibm\fsd\sba\training\service\impl\TrainingServiceImpl.class
+com\ibm\fsd\sba\training\service\TrainingService.class

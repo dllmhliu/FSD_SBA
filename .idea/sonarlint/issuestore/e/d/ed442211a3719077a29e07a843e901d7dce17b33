@@ -1,0 +1,8 @@
+
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¡“¦†ã-
+csquid:UselessImportCheck"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8µÇ¥†ã-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX8µÇ¥†ã-
+csquid:UselessImportCheck"9Remove this unused import 'javax.persistence.ManyToMany'.(Àğ½8µÇ¥†ã-
+dsquid:UselessImportCheck"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8µÇ¥†ã-
+fsquid:S00107X"BConstructor has 13 parameters, which is greater than 7 authorized.(ï÷Îšùÿÿÿÿ8«Í¡†ã-
+hsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.JoinTable'.(ùö±µùÿÿÿÿ8µÇ¥†ã-

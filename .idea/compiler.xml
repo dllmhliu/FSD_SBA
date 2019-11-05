@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fsd-sba-EurekaServer" />
+        <module name="fsd-sba-Gateway" />
+        <module name="fsd-sba-JWTServer" />
+        <module name="fsd-sba-Payment" />
+        <module name="fsd-sba-Search" />
+        <module name="fsd-sba-Security" />
+        <module name="fsd-sba-Technology" />
+        <module name="fsd-sba-Training" />
+        <module name="fsd-sba-User" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fsd-sba-EurekaServer" target="1.8" />
+      <module name="fsd-sba-Gateway" target="1.8" />
+      <module name="fsd-sba-JWTServer" target="1.8" />
+      <module name="fsd-sba-Payment" target="1.8" />
+      <module name="fsd-sba-Search" target="1.8" />
+      <module name="fsd-sba-Security" target="1.8" />
+      <module name="fsd-sba-Technology" target="1.8" />
+      <module name="fsd-sba-Training" target="1.8" />
+      <module name="fsd-sba-User" target="1.8" />
+      <module name="FSD_SBA" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fsd-sba-EurekaServer" options="-parameters" />
+      <module name="fsd-sba-Gateway" options="-parameters" />
+      <module name="fsd-sba-JWTServer" options="-parameters" />
+      <module name="fsd-sba-Payment" options="-parameters" />
+      <module name="fsd-sba-Search" options="-parameters" />
+      <module name="fsd-sba-Security" options="-parameters" />
+      <module name="fsd-sba-Technology" options="-parameters" />
+      <module name="fsd-sba-Training" options="-parameters" />
+      <module name="fsd-sba-User" options="-parameters" />
+    </option>
+  </component>
+</project>

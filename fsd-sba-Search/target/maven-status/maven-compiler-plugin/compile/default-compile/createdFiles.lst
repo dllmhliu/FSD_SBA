@@ -1,0 +1,8 @@
+com\ibm\fsd\sba\search\SearchApplication.class
+com\ibm\fsd\sba\search\service\SearchService.class
+com\ibm\fsd\sba\search\model\UserDto.class
+com\ibm\fsd\sba\search\model\ResponseDto.class
+com\ibm\fsd\sba\search\feign\UserFeign.class
+com\ibm\fsd\sba\search\feign\TrainingFeign.class
+com\ibm\fsd\sba\search\model\TrainingsDto.class
+com\ibm\fsd\sba\search\api\SearchController.class

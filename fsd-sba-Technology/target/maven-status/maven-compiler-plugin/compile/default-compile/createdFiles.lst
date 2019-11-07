@@ -1,7 +1,0 @@
-com\ibm\fsd\sba\technology\service\TechnologyService.class
-com\ibm\fsd\sba\technology\TechnologyApplication.class
-com\ibm\fsd\sba\technology\entity\Skill.class
-com\ibm\fsd\sba\technology\api\TechnologyController.class
-com\ibm\fsd\sba\technology\model\ResponseDto.class
-com\ibm\fsd\sba\technology\repository\SkillRepository.class
-com\ibm\fsd\sba\technology\service\impl\TechnologyServiceImpl.class

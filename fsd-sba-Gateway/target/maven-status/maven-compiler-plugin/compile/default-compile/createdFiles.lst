@@ -1,7 +1,0 @@
-com\ibm\fsd\sba\gateway\config\JwtTokenAuthenticationFilter.class
-com\ibm\fsd\sba\gateway\config\JwtUsernamePasswordAuthenticationFilter.class
-com\ibm\fsd\sba\gateway\config\SimpleCorsFilter.class
-com\ibm\fsd\sba\gateway\GatewayApplication.class
-com\ibm\fsd\sba\gateway\config\JwtUsernamePasswordAuthenticationFilter$User.class
-com\ibm\fsd\sba\gateway\config\JwtAuthenticationConfig.class
-com\ibm\fsd\sba\gateway\config\SecurityConfig.class

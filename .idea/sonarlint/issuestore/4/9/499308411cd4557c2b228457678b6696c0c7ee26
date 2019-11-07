@@ -1,5 +1,0 @@
-
-Dsquid:S2447"-Null is returned but a "Boolean" is expected.(¥¹ï
-Xsquid:UselessImportCheck
-"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
-ssquid:S1488&"\Immediately return this expression instead of assigning it to the temporary variable "user".(Éã³

@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Image Build'){
         	steps{
-        	    bat 'docker build -t registry.cn-hangzhou.aliyuncs.com/wujiabo/frontend:latest .'
+        	    bat 'docker push dllmhliu/frontend:latest'
         	}
         }
 		stage('Deploy Image') {

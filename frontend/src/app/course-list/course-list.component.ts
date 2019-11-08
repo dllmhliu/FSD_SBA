@@ -59,4 +59,21 @@ export class CourseListComponent implements OnInit {
   }
     }
 
+
+  deactivate(id: number) {
+
+    this.loading = true;
+    this.courseservice.deactivateCourses(id).subscribe(data => {
+        this.alertService.success(data.toString());
+        this.loading = false;
+        this.searchCourses();
+    },
+    error => {
+      this.alertService.error(error);
+      this.loading = false;
+        this.searchCourses();
+      });
+
+
+  }
 }
